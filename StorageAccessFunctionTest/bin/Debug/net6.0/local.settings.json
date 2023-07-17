@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurefunctionssql2023070;AccountKey=geU6zSbVAgr++b5n8BIw/4puETMdmtWGO+DUpfb/bN829LwT5EszS0UnGl35VNCKk5HGlHxEHpBc+AStEsXD3Q==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "KEY_VAULT_NAME": "testkey43",
+    "accountName": "storageaccountfaiz",
+    "accountKey": "SBeBHvkuojVtWpYN+mi3BS60kCiiwaJsd/NjftgkTvJ8Q7koiylpoO85EOpCiuH5/AaAPJQFELVx+ASt/CXSUg==",
+    "TableName": "Storage"
+
+  }
+}

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageAccessFunction", "StorageAccessFunction.csproj", "{D740BA84-1FEF-4B65-A7D3-1040D9F04877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageAccessFunction", "StorageAccessFunction\StorageAccessFunction.csproj", "{E18F3D02-433D-4143-885F-D731766A68CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStorageAccessFunction", "..\TestStorageAccessFunction\TestStorageAccessFunction.csproj", "{DE11C91B-0066-40FE-9978-D2B72F1D247A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageAccessFunctionTest", "StorageAccessFunctionTest\StorageAccessFunctionTest.csproj", "{5CB2D371-4AD1-47E8-9A10-7F61971D6DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D740BA84-1FEF-4B65-A7D3-1040D9F04877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D740BA84-1FEF-4B65-A7D3-1040D9F04877}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D740BA84-1FEF-4B65-A7D3-1040D9F04877}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D740BA84-1FEF-4B65-A7D3-1040D9F04877}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DE11C91B-0066-40FE-9978-D2B72F1D247A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE11C91B-0066-40FE-9978-D2B72F1D247A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE11C91B-0066-40FE-9978-D2B72F1D247A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE11C91B-0066-40FE-9978-D2B72F1D247A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18F3D02-433D-4143-885F-D731766A68CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18F3D02-433D-4143-885F-D731766A68CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18F3D02-433D-4143-885F-D731766A68CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18F3D02-433D-4143-885F-D731766A68CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB2D371-4AD1-47E8-9A10-7F61971D6DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB2D371-4AD1-47E8-9A10-7F61971D6DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB2D371-4AD1-47E8-9A10-7F61971D6DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB2D371-4AD1-47E8-9A10-7F61971D6DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
