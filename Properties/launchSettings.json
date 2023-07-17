@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StorageAccessFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7228",
+      "launchBrowser": false
+    }
+  }
+}
